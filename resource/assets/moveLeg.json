@@ -1,0 +1,29 @@
+{"mc":{
+	"move":{
+		"frameRate":5,
+		"labels":[
+			{"name":"moveLeg","frame":1,"end":2}
+			
+			],
+		"events":[
+			
+			],
+		"frames":[
+			
+			{
+			"res":"playerLeg0",
+			"x":-53,
+			"y":0
+			},
+			{
+			"res":"playerLeg1",
+			"x":-53,
+			"y":0
+			}
+		]
+	}
+},
+"res":{
+	"playerLeg1":{"x":0,"y":0,"w":103,"h":302},
+	"playerLeg0":{"x":103,"y":0,"w":103,"h":302}
+}}
